@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+    /* background: linear-gradient(to right, #ffafbd 0%, #ffc3a0 100%); */
+    background: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 100%);
+
+}
+h1{
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.heading{
+    /* position:relative; */
+    /* display: block; */
+    color: whitesmoke;
+    height: 70px;
+    background: linear-gradient(to bottom, #3333cc 0%, #ff66ff 100%);
+}
+.profile{
+    margin: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+.profile-content{
+    margin: 15px;
+    padding: 5px;
+    font-size: larger;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+}
+.birth{
+    margin: 15px;
+    padding: 5px;
+    background: linear-gradient(to right, #764ba2 0%, #667eea 100%);
+    font-size: large;
+    /* background-color: #F3F49B; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.LifeStyle{
+    margin: 15px;
+    padding: 5px;
+    font-size: large;
+    /* background-color: #F3F49B; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background: linear-gradient(to right, #764ba2 0%, #667eea 100%);
+
+}
+.skbg{
+    margin: 15px;
+    padding: 5px;
+    font-size: large;
+    /* background-color: #F3F49B; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background: linear-gradient(to right, #764ba2 0%, #667eea 100%);
+
+}
+.audio{
+    padding-top: 10px;
+}
+.vedio{
+    margin: 15px;
+    padding-left: 27%;
+
+}
+.kc,.ls,.bg{
+    display: flex;
+    justify-content: center;
+    
+}
+#kc,#ls,#bg{
+    border-radius: 25px;
+    
+}
